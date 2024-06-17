@@ -1,4 +1,4 @@
-# Simple-Django-Tweet-App (CRUD Functionality) 
+# Django-Tweet-App (CRUD Functionality) 
 
 ## Overview
 This project is a simple Twitter-like application built with Django. It allows users to create, read, update, and delete tweets. The app supports both authenticated and unauthenticated user views.
